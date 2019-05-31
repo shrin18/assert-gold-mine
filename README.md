@@ -6,7 +6,7 @@ This is an informal repo for ASSERT (Awesome Software Engineering Research Team 
 - **Pubs / Restaurants**  
   - [Wirströms Pub (Stora Nygatan 13, Stockholm)](https://goo.gl/maps/McA4gtR1VzsWoQxM7)  
   - [Panda Asian Restaurant (Vasagatan 12, Stockholm)](https://goo.gl/maps/vnDAGXa9TcKDJbvo9)  
-  - [O'Learys Sweden (Live Sports Screening and Food)@ Centralplan 15, 111 20 Stockholm](https://goo.gl/maps/ophb2wmhKa6zbBBE9)
+  - [O'Learys Sweden (Live Sports Screening and Food @ Centralplan 15, 111 20 Stockholm)](https://goo.gl/maps/ophb2wmhKa6zbBBE9)
 - **Markets**  
   - [Oriental Supermarket (Sveavägen 17, Stockholm)](https://goo.gl/maps/zxeGxJAbT9TVY4sMA)  
   - [IKEA in Southwest of Stockholm (Modulvägen 1, Kungens Kurva)](https://goo.gl/maps/DNLU52iap12hnmze8)  
